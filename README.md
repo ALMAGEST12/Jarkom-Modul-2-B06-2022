@@ -39,9 +39,13 @@ WISE
 ## Soal 5
 ### Agar dapat tetap dihubungi jika server WISE bermasalah, buatlah juga Berlint sebagai DNS Slave untuk domain utama
 WISE
+
 <img width="774" alt="image" src="https://user-images.githubusercontent.com/83849481/198837436-d5675e50-c388-43e4-b238-b8853696dd07.png">
+
 Berlint
+
 <img width="624" alt="image" src="https://user-images.githubusercontent.com/83849481/198837452-6e19d5ba-7611-4f0d-98ba-987d295b4cc1.png">
+
 Test
 <img width="554" alt="image" src="https://user-images.githubusercontent.com/83849481/198837461-cb26455c-bd8f-4b88-a61d-320460a6be93.png">
 <img width="820" alt="image" src="https://user-images.githubusercontent.com/83849481/198837470-3a32b146-5312-454b-99f8-71b26c554098.png">
@@ -71,11 +75,11 @@ Berlint
 ### Setelah itu, pada subdomain www.eden.wise.yyy.com, Loid membutuhkan penyimpanan aset yang memiliki DocumentRoot pada /var/www/eden.wise.yyy.com
 <img width="439" alt="image" src="https://user-images.githubusercontent.com/83849481/198837867-cd833852-4c04-40f9-befc-4a1d2caa13da.png">
 
-## Soal 10 
+## Soal 11 
 ### Akan tetapi, pada folder /public, Loid ingin hanya dapat melakukan directory listing saja
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/83849481/198837888-f7876f75-4d91-4177-9a81-ea2f9476cfa9.png">
 
-## Soal 11 
+## Soal 12 
 ### Tidak hanya itu, Loid juga ingin menyiapkan error file 404.html pada folder /error untuk mengganti error kode pada apache
 
 
