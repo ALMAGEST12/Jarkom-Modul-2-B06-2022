@@ -116,6 +116,9 @@ Berlint
 <img width="368" alt="image" src="https://user-images.githubusercontent.com/83849481/198838255-f065f50b-bb44-4801-9cd2-b9b6ff32533e.png">
 
 
+### Kendala
+Masih perlu latihan lagi agar dapat menyelesaikan semua soal lebih cepat
+
 
 
 
